@@ -1,4 +1,4 @@
-# CSJAVA-Inheritance
+# CSJAVA-Aston Course. 
 Demonstrating Java based concepts in Inheritance
 
 
